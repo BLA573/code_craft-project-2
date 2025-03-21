@@ -1,0 +1,87 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.navbar1{
+    margin-left:60px ;
+}
+.navbar2{
+    display: flex;
+    gap: 33px;
+}
+.navbar3{
+    background: black;
+    border-radius: 50px;
+    height: 30px;
+    display: flex;
+    margin-right: 60px;
+}
+.firste_txt{
+    margin-top: 90px;
+}
+.wb_sun{
+    background: white;
+    border-radius: 15px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+}
+.body1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+}
+h1{
+    font-size: 83px;
+    font-family:'Poppins';
+    margin-top: 0px;
+    margin-bottom: 35px;
+}
+button{
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    padding-left: 45px;
+    padding-right: 45px;
+    background-color: rgb(236, 252, 247) ;
+}
+.button1{
+    background-color:rgb(54, 54, 230);
+a{
+    color:aliceblue
+}    
+}
+.link1:hover{
+    color: aliceblue;
+} 
+.text{
+    margin-bottom: 40px;
+    margin-top: 0px;
+}
+.text2{
+    margin-top: 10px;
+    display: flex;
+    margin-bottom: 30px;
+    align-items: center;
+}
+.img2{
+    margin-left: 40px;
+
+}
+a{
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+.link{
+    color: blue;
+}
+body{
+    background: rgb(236, 252, 247);   
+}
+.body2{
+    margin-right:40px ;
+}
