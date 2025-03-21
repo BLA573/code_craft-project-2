@@ -3,13 +3,17 @@
     justify-content: space-between;
     align-items: center;
     margin-top: 20px;
+
 }
 .navbar1{
     margin-left:50px ;
+
 }
 .navbar2{
     display: flex;
     gap: 33px;
+
+
 }
 .navbar3{
     background: black;
@@ -20,6 +24,8 @@
 }
 .firste_txt{
     margin-top: 80px;
+    color: rgb(55, 65, 81);
+
 }
 .wb_sun{
     background: white;
@@ -38,6 +44,7 @@ h1{
     font-family:'Poppins';
     margin-top: 0px;
     margin-bottom: 35px;
+    color: rgb(55, 65, 81);
 }
 button{
     padding: 20px;
@@ -55,16 +62,22 @@ a{
 }
 .link1:hover{
     color: aliceblue;
+    color: rgb(55, 65, 81);
+
 } 
 .text{
     margin-bottom: 40px;
     margin-top: 0px;
+    color: rgb(55, 65, 81);
+
 }
 .text2{
     margin-top: 20px;
     display: flex;
     margin-bottom: 30px;
     align-items: center;
+    color: rgb(55, 65, 81);
+
 }
 .img2{
     margin-left: 40px;
@@ -75,13 +88,19 @@ a{
     margin-right: 9px;
 }
 a{
-    color: black;
+    color: rgb(55, 65, 81);
+    text-decoration: none;
 }
 a:hover{
     color: blue;
+    text-decoration: underline;
 }
 .link{
     color: blue;
+}
+.link1:hover{
+    color: aliceblue;
+    text-decoration: none;
 }
 body{
     background: rgb(236, 252, 247);   
