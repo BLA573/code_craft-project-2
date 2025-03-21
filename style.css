@@ -5,7 +5,7 @@
     margin-top: 20px;
 }
 .navbar1{
-    margin-left:60px ;
+    margin-left:50px ;
 }
 .navbar2{
     display: flex;
@@ -19,7 +19,7 @@
     margin-right: 60px;
 }
 .firste_txt{
-    margin-top: 90px;
+    margin-top: 80px;
 }
 .wb_sun{
     background: white;
@@ -34,7 +34,7 @@
     margin-left: 60px;
 }
 h1{
-    font-size: 83px;
+    font-size: 60px;
     font-family:'Poppins';
     margin-top: 0px;
     margin-bottom: 35px;
@@ -61,14 +61,18 @@ a{
     margin-top: 0px;
 }
 .text2{
-    margin-top: 10px;
+    margin-top: 20px;
     display: flex;
     margin-bottom: 30px;
     align-items: center;
 }
 .img2{
     margin-left: 40px;
+    margin-right: 9px;
 
+}
+.img1{
+    margin-right: 9px;
 }
 a{
     color: black;
