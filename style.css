@@ -18,7 +18,7 @@
 .navbar3{
     background: black;
     border-radius: 50px;
-    height: 30px;
+    height: 25px;
     display: flex;
     margin-right: 60px;
 }
@@ -29,10 +29,12 @@
 }
 .wb_sun{
     background: white;
-    border-radius: 15px;
-    padding-left: 3px;
-    padding-right: 3px;
-    padding-top: 3px;
+    border-radius: 200px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    padding-bottom :2px;
+    height: 20px;
 }
 .body1{
     display: flex;
@@ -97,6 +99,7 @@ a:hover{
 }
 .link{
     color: blue;
+    text-decoration: underline;
 }
 .link1:hover{
     color: aliceblue;
