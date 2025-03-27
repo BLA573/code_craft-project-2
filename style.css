@@ -3,7 +3,6 @@
     justify-content: space-between;
     align-items: center;
     margin-top: 20px;
-
 }
 .navbar1{
     margin-left:50px ;
@@ -12,8 +11,6 @@
 .navbar2{
     display: flex;
     gap: 33px;
-
-
 }
 .navbar3{
     background: black;
@@ -25,7 +22,6 @@
 .firste_txt{
     margin-top: 60px;
     color: rgb(55, 65, 81);
-
 }
 .wb_sun{
     background: white;
@@ -65,13 +61,11 @@ a{
 .link1:hover{
     color: aliceblue;
     color: rgb(55, 65, 81);
-
 } 
 .text{
     margin-bottom: 20px;
     margin-top: 0px;
     color: rgb(55, 65, 81);
-
 }
 .text2{
     margin-top: 20px;
@@ -79,12 +73,10 @@ a{
     margin-bottom: 30px;
     align-items: center;
     color: rgb(55, 65, 81);
-
 }
 .img2{
     margin-left: 40px;
     margin-right: 9px;
-
 }
 .img1{
     margin-right: 9px;
@@ -118,3 +110,109 @@ body{
     text-align: center;
     align-items: center;
 }
+ @media (max-width: 500px){
+        .body1{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body2{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .navbar{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .navbar2{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .navbar3{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .navbar1{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .firste_txt{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .text2{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body1{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body2{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body1{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body2{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body1{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body2{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body1{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body2{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body1{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body2{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body1{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body2{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .body1{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+ }
